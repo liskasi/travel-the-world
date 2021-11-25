@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.City_isActive {
+  fill: black;
+}
+path {
+  cursor: pointer;
+}
